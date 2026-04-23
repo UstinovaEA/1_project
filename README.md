@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there 👋 Ekaterina
 
-<!--
-**UstinovaEA/UstinovaEA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Обо мне:
+Я Аналитик Данных
 
-Here are some ideas to get you started:
+🔭 За числами нахожу данные, которые помогают в развитии продукта.
+🌱 Люблю решать задачи на логику, предпочитаю принимать решения на основе данных.
+⚡ Свободное время провожу с семьей и в путешествиях.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Языки и инструменты :
+Python  Pandas  Numpy  Plotly  Scipy  Jupyter  ClickHouse  MySQL  PostgreSQL  Redash  YandexDataLens  GitHub  Airflow   
+
+🤘 Умею:
+Проведение А/В тестов и bootstrap, регрессионного и когортного анализа с помощью python
+SQL: вложенные запросы, оконные функции, конструкции case
+Написание ad-hoc запросов
+Работа над проектами в системе контроля версий git
+Формирование дашбордов
+Расчет ключевых метрик продукта: ARPU, ARPPU, retention, conversion, churn rate
+Автоматизация процессов через Airflow
+
+Готова к сотрудничеству 🤝
+Мои проекты 👇:
